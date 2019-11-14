@@ -11,7 +11,7 @@ una idea de qué tomar en cuenta al calcular una regresión.
 
 Código y data: [Github](https://github.com/jfreek/moneyball)
 
-Ejemplo: [notebook](https://www.jabud.tech/moneyball/Moneyball_Base.html)
+Ejemplo: [notebook](https://www.jabud.tech/moneyball/examples/Moneyball_Base.html)
 
 
 ### Links of reference
