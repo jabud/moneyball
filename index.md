@@ -1,4 +1,7 @@
-# moneyball
+---
+layout: page
+title: "moneyball"
+---
 
 Regresión lineal para predecir resultados en Baseball, usando ejemplo de la película Moneyball 
 

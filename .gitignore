@@ -1,1 +1,8 @@
 .ipynb_checkpoints/
+*/__pycache__/*
+*.pyc
+*.bundle
+_site/
+.sass-cache/
+*.lock
+/Gemfile
