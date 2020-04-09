@@ -6,9 +6,7 @@ El proyecto es un jupyter notebook para explicar regresión lineal con código y
 Se tocan temas como R² y multicolinealidad, en conjunto con otros ejemplos para darle al principiante 
 una idea de qué tomar en cuenta al calcular una regresión.
 
-Código y data: [Github](https://github.com/jfreek/moneyball)
-
-Ejemplo: [notebook](https://www.jabud.tech/moneyball/examples/Moneyball_Base.html)
+Ejemplo: [notebook](https://jabud.github.io/moneyball/examples/Moneyball_Base.html)
 
 
 ### Links of reference
